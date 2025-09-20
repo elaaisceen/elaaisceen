@@ -1,80 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20there!%20I%27m%20[YourName]&animation=fadeIn&color=gradient&height=120" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Ela&animation=fadeIn&color=gradient&height=120" alt="Banner" />
 </p>
 
 ---
 
-## 👋 Hi, I’m **[YourName]**
+## 👋 Hi, I’m **Ela (Elanur Tuana İŞCEN)**  
 
-I’m a passionate **[Your Profession / Role]** who loves turning ideas into real, working code. I thrive on solving complex problems and bringing creativity to every project.  
-Here’s a little about me:
+I’m a **CTIS (Computer Technology & Information Systems) student** at Bartın University,  
+currently pursuing a **minor in Management Information Systems (MIS)**.  
 
-| 🌱 I’m currently learning | 🚀 I’m working on | 🔭 I’m exploring |
-| -------------------------- | ------------------ | ------------------ |
-| [Tech/Language A] | [Project A / Open Source Contribution] | [Technology/Field B] |
-
----
-
-## 💡 What I Do
-
-- Build scalable solutions using **[Primary Tech Stack: e.g. JavaScript, Python, Go]**  
-- Engineer clean, maintainable, and tested code  
-- Contribute to open-source and help others grow  
-- Advocate for best practices, performance, and clean UX  
+💡 I’m passionate about **technology, education, and the future of the metaverse**.  
+I aim to become a **teacher** and also pursue an **academic career**.  
 
 ---
 
-## 🔧 Tools & Technologies
+## 🌱 What I’m Learning & Exploring  
+
+| 🌱 Currently Learning          | 🚀 Working On                     | 🔭 Exploring                              |
+| ------------------------------- | ---------------------------------- | ----------------------------------------- |
+| Programming & Web Development   | School projects & GitHub portfolio | Metaverse, VR/AR, and Future of Education |
+
+---
+
+## 💡 What I Do  
+
+- 📚 Building a strong foundation in **software & information systems**  
+- 🖥️ Interested in **VR, metaverse, and digital education**  
+- ✨ Exploring **AI, open-source, and creative technologies**  
+- 🎓 Preparing myself for both **teaching** and **academic research**  
+
+---
+
+## 🔧 Tools & Technologies  
 
 <p align="left">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <!-- Daha fazlasını ekleyebilirsin -->
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="My GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=radical" alt="Ela's GitHub Stats" />
 </p>
 
 ---
 
-## 🎯 Fun Facts
+## 🎯 Fun Facts About Me  
 
-- 🔭 I built [Awesome Project](https://github.com/yourusername/yourproject) which does **X**  
-- 🌍 Speaks **[Languages]** — English, [Your Native Language], maybe more soon  
-- 🎮 Huge fan of **[Hobbies e.g. gaming, music, films, hiking]**  
-- ☕ Powered by lots of coffee & long coding sessions  
+- 🌍 I’ve been to **Canada** before and want to study/work abroad in the future  
+- 🧩 Background in **Mechanical Drafting** & **3 years of lifeguard experience**  
+- 💻 Fascinated by **research & technology** 
+- 🎨 Love drawing, writing, exploring new things, and spending time in the digital world  
+- ☕ Coding & learning always go hand in hand with **coffee**  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="https://twitter.com/[yourtwitter]"><img src="https://img.shields.io/badge/Twitter-@yourtwitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://linkedin.com/in/[yourlinkedin]"><img src="https://img.shields.io/badge/LinkedIn-In-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red?logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://leetcode.com/[yourleetcode]"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
+  <a href="www.linkedin.com/in/elanurtuanaiscen"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:elanurtuanaiscen@gmail.com"><img src="https://img.shields.io/badge/E--mail-elanurtuanaiscen@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
-
-## 🌟 Inspiration & Links
-
-- 🔗 [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) — örnek ve fikir için müthiş içerik. :contentReference[oaicite:0]{index=0}  
-- 🎨 [How to Design a Stellar GitHub Profile README](https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783) — tasarım ve estetik için çok faydalı ipuçları. :contentReference[oaicite:1]{index=1}  
-
----
-
-> “We’re all just walking each other home.”  
-> — Ram Dass
-
----
-
-> Last updated: [Insert Date]  
