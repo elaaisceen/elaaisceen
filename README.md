@@ -67,7 +67,7 @@ I aim to become a **teacher** and also pursue an **academic career**.
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="www.linkedin.com/in/elanurtuanaiscen"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[www.linkedin.com/in/elanurtuanaiscen](https://www.linkedin.com/in/elanurtuanaiscen/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:elanurtuanaiscen@gmail.com"><img src="https://img.shields.io/badge/E--mail-elanurtuanaiscen@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
