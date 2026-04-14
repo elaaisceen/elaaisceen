@@ -9,8 +9,8 @@
 I’m a **CTIS (Computer Technology & Information Systems) student** at Bartın University,  
 currently pursuing a **minor in Management Information Systems (MIS)**.  
 
-💡 I’m passionate about **technology, education, and the future of the metaverse**.  
-I aim to become a **teacher** and also pursue an **academic career**.  
+💡 I have a great passion for **artificial intelligence, digital transformation, and the future of education**.
+My goal is to bridge the gap between **technology and pedagogy** and focus on how intelligent systems are shaping next-generation learning. 
 
 ---
 
