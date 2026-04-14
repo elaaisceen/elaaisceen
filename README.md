@@ -18,14 +18,14 @@ I aim to become a **teacher** and also pursue an **academic career**.
 
 | 🌱 Currently Learning          | 🚀 Working On                     | 🔭 Exploring                              |
 | ------------------------------- | ---------------------------------- | ----------------------------------------- |
-| Programming & Web Development   | School projects & GitHub portfolio | Metaverse, VR/AR, and Future of Education |
+| Programming & Web Development   | School projects & GitHub portfolio |Artificial Intelligence, Embedded Systems, and Digital Transformation in Education |
 
 ---
 
 ## 💡 What I Do  
 
 - 📚 Building a strong foundation in **software & information systems**  
-- 🖥️ Interested in **VR, metaverse, and digital education**  
+- 🖥️ Interested in **Artificial Intelligence & Digital Evolution**  
 - ✨ Exploring **AI, open-source, and creative technologies**  
 - 🎓 Preparing myself for both **teaching** and **academic research**  
 
@@ -39,9 +39,13 @@ I aim to become a **teacher** and also pursue an **academic career**.
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </p>
 
 ---
