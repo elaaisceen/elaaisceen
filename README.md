@@ -33,7 +33,7 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 ## 🔧 Tools & Technologies  
 
-<p align="left">
+<p align="center">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
