@@ -31,7 +31,7 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 ---
 
-### 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
