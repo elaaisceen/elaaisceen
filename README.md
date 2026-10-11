@@ -47,7 +47,7 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 <!-- GitHub Katkı Kupaları (Contributor & Achievements Trophies) -->
 <p align="center">
-  <img src="https://github.com/elaaisceen/github-profile-3d-contrib/raw/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elaaisceen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ela's GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaaisceen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
----
+
 
 ## 🎯 Fun Facts About Me  
 
