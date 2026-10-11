@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Ela&animation=fadeIn&color=gradient&height=120" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Ela&sub=Software%20Developer%20Student%20&%20AI%20Explorer&animation=fadeIn&color=gradient&customColorList=0,12,20,35,45&height=140&section=header&fontSize=35&fontColor=fff" alt="Banner" />
 </p>
 
 ---
@@ -16,9 +16,9 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 ## 🌱 What I’m Learning & Exploring  
 
-| 🌱 Currently Learning          | 🚀 Working On                     | 🔭 Exploring                              |
+| 🌱 Currently Learning          | 🚀 Working On                      | 🔭 Exploring                              |
 | ------------------------------- | ---------------------------------- | ----------------------------------------- |
-| Programming & Backend Development   | School projects & GitHub portfolio |Artificial Intelligence, Embedded Systems, and Digital Transformation in Education |
+| Programming & Backend Development   | School projects & GitHub portfolio | Artificial Intelligence, Embedded Systems, and Digital Transformation in Education |
 
 ---
 
@@ -42,10 +42,17 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Activity & Stats  
 
+<!-- Katkı İstatistikleri ve Çizgi (Streak) Kartları -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=radical" alt="Ela's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elaaisceen&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Ana İstatistik Kartı -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ela's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaaisceen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -63,8 +70,6 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="[www.linkedin.com/in/elanurtuanaiscen](https://www.linkedin.com/in/elanurtuanaiscen/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/elanurtuanaiscen/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:elanurtuanaiscen@gmail.com"><img src="https://img.shields.io/badge/E--mail-elanurtuanaiscen@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
----
