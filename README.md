@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&text=Hello!%20I'm%20Ela&%20AI%20Explorer&animation=scaleIn&color=0d1117&fontColor=58a6ff&fontSize=35&subFontSize=16&height=130&borderColor=30363d" alt="Banner" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Junior%20Software%20Developer%20&%20AI%20Explorer&animation=scaleIn&color=0d1117&fontColor=58a6ff&fontSize=35&subFontSize=16&height=130&borderColor=30363d" alt="Banner" />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Junior%20Software%20Developer%20&%20AI%20Explorer&animation=scaleIn&color=0d1117&fontColor=58a6ff&fontSize=35&subFontSize=16&height=130&borderColor=30363d" />
 </p>
 
 ---
