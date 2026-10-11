@@ -18,7 +18,7 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 | 🌱 Currently Learning          | 🚀 Working On                     | 🔭 Exploring                              |
 | ------------------------------- | ---------------------------------- | ----------------------------------------- |
-| Programming & Web Development   | School projects & GitHub portfolio |Artificial Intelligence, Embedded Systems, and Digital Transformation in Education |
+| Programming & Backend Development   | School projects & GitHub portfolio |Artificial Intelligence, Embedded Systems, and Digital Transformation in Education |
 
 ---
 
