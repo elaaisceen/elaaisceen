@@ -47,6 +47,10 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 <!-- GitHub Katkı Kupaları (Contributor & Achievements Trophies) -->
 <p align="center">
+  <img src="https://github.com/elaaisceen/github-profile-3d-contrib/raw/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elaaisceen&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4&column=4" alt="Ela's GitHub Trophies" />
 </p>
 
