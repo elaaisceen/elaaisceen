@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Ela&sub=Software%20Developer%20Student%20&%20AI%20Explorer&animation=fadeIn&color=gradient&customColorList=0,12,20,35,45&height=140&section=header&fontSize=35&fontColor=fff" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hello!%20I'm%20Ela&sub=Software%20Developer%20&%20AI%20Explorer&animation=scaleIn&color=0d1117&fontColor=58a6ff&fontSize=35&subFontSize=18&height=130&borderColor=30363d" alt="Banner" />
 </p>
 
 ---
@@ -42,17 +42,22 @@ My goal is to bridge the gap between **technology and pedagogy** and focus on ho
 
 ---
 
-## 📈 GitHub Activity & Stats  
+## 📈 GitHub Activity & Contributions  
 
-<!-- Katkı İstatistikleri ve Çizgi (Streak) Kartları -->
+<!-- GitHub Katkı Kupaları (Contributor & Achievements Trophies) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elaaisceen&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elaaisceen&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4&column=4" alt="Ela's GitHub Trophies" />
 </p>
 
-<!-- Ana İstatistik Kartı -->
+<!-- Günlük Çalışma Serisi (Streak) ve Aktif Katkı Kartları -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ela's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaaisceen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elaaisceen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Genel İstatistikler ve En Çok Kullanılan Diller -->
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=elaaisceen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ela's GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaaisceen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
